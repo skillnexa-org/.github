@@ -64,6 +64,31 @@ We are actively looking to collaborate with:
 
 ---
 
+## 📂 Project Stats
+
+- 🔓 Public Projects: 12  
+- 🔒 Private Projects: 8  
+- 🚀 Total Projects: 20  
+- 🌐 Live Tools: 5+  
+- 📘 Educational Resources Published: 30+
+
+---
+
+## 🖼 Project Snapshots
+
+Here’s a quick look at some of our featured public tools and platforms:
+
+### 🔧 DevToolKit  
+![DevToolKit](./images/devtoolkit.png)
+---
+### 🎓 LearnX  
+![LearnX](./images/learnx.png)
+---
+### 💼 SaaSify (Private)  
+*(Preview not available)*
+
+---
+
 <p align="center">
   🚀 Built with passion by <b>SkillNEXA Ecosystem</b> • © 2025
 </p>
