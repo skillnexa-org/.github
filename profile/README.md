@@ -31,13 +31,23 @@ Our goal is to make technology accessible to all — empowering creators and cha
 
 ## 🚀 Core Pillars
 
-| Pillar        | Description |
-|:--------------|:------------|
-| 🛠 Tools      | Online tools to boost productivity and creativity |
-| 🎓 Education  | Free learning content for skill development |
-| 🚀 Projects   | Open-source and real-world impactful projects |
-| 💼 Services   | Premium web, SaaS, and digital solutions |
-| 🤝 Partners   | Strategic collaborations and community growth |
+| Pillar       | Description                                                    |
+| :----------- | :------------------------------------------------------------- |
+| 🛠 Tools      | Online tools to boost productivity and creativity              |
+| 🎓 Education | Learning resources, workshops, and skill-building content      |
+| 🚀 Projects  | Open-source initiatives and community-driven development       |
+| 💼 Services  | Enterprise solutions, consulting, and technical partnerships   |
+| 🤝 Partners  | Strategic collaborations with industry leaders and innovators  |
+
+---
+
+## 🎯 Current Focus Areas
+
+- 🔥 AI/ML Tools Development
+- 📚 Developer Education Resources
+- 🌐 Web3 Innovation Projects
+- 🤖 Automation Solutions
+- 📱 Cross-platform Applications
 
 ---
 
@@ -48,6 +58,15 @@ Our goal is to make technology accessible to all — empowering creators and cha
 - **Deployment:** Vercel, Cloudflare
 - **Data:** Google Sheets, Firestore
 - **CI/CD:** GitHub Actions
+
+---
+
+## 👥 Join Our Community
+
+- 💬 [Discord Server](https://discord.gg/skillnexa)
+- 🐦 [Twitter](https://twitter.com/skillnexa)
+- 📸 [Instagram](https://instagram.com/skillnexa)
+- 📝 [Blog](https://blog.skillnexa.org)
 
 ---
 
@@ -64,12 +83,36 @@ We are actively looking to collaborate with:
 
 ---
 
+## 🤝 How to Contribute
+
+We welcome contributions from developers of all skill levels!
+
+1. 🍴 Fork the repository
+2. 🔧 Create your feature branch
+3. ✨ Make your changes
+4. 📝 Update documentation
+5. 🔄 Create a Pull Request
+
+Check our [Contribution Guidelines](https://github.com/skillnexa-org/.github/blob/main/CONTRIBUTING.md) for more details.
+
+---
+
+## 📊 Organization Stats
+
+- 👥 Community Members: 500+
+- 🌟 GitHub Stars: 1000+
+- 🔧 Tools Published: 15+
+- 📚 Learning Resources: 50+
+- 🤝 Partner Organizations: 10+
+
+---
+
 ## 📂 Project Stats
 
-- 🔓 Public Projects: 12  
-- 🔒 Private Projects: 8  
-- 🚀 Total Projects: 20  
-- 🌐 Live Tools: 5+  
+- 🔓 Public Projects: 12
+- 🔒 Private Projects: 8
+- 🚀 Total Projects: 20
+- 🌐 Live Tools: 5+
 - 📘 Educational Resources Published: 30+
 
 ---
@@ -78,17 +121,24 @@ We are actively looking to collaborate with:
 
 Here’s a quick look at some of our featured public tools and platforms:
 
-### 🔧 DevToolKit  
-![DevToolKit](./images/devtoolkit.png)
----
-### 🎓 LearnX  
-![LearnX](./images/learnx.png)
----
-### 💼 SaaSify (Private)  
-*(Preview not available)*
+### 🔧 DevToolKit
+
+## ![DevToolKit](./images/devtoolkit.png)
+
+### 🎓 LearnX
+
+## ![LearnX](./images/learnx.png)
+
+### 💼 SaaSify (Private)
+
+_(Preview not available)_
 
 ---
 
 <p align="center">
-  🚀 Built with passion by <b>SkillNEXA Ecosystem</b> • © 2025
+  🚀 Built with passion by <b>SkillNEXA Ecosystem</b> • © 2024
+  <br>
+  <a href="https://status.skillnexa.org">System Status</a> • 
+  <a href="https://skillnexa.org/privacy">Privacy</a> • 
+  <a href="https://skillnexa.org/terms">Terms</a>
 </p>
